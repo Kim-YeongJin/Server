@@ -2,6 +2,7 @@ import java.net.SocketAddress
 
 fun main() {
     ChatServer()
+    //
 }
 
 class ChatServer : MacheteServer("127.0.0.1:3306/chat" , "root" , "0523") {
