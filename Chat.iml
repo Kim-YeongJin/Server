@@ -21,7 +21,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/src/jar/MacheteServer(1.0.3).jar!/" />
+          <root url="jar://$MODULE_DIR$/src/jar/MacheteServer(1.0.4).jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
